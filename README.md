@@ -1,4 +1,4 @@
-![👋 Hi, my name is Onur Anatca](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is Onur Anatca](https://i.imgur.com/QqKCrfO.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Uricaryn&label=Profile%20views&color=0e75b6&style=flat)
 
