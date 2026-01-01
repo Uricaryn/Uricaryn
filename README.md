@@ -22,7 +22,7 @@ Previously, as a Web Development Intern, self-taught skills in web design propel
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new Event based Social platform using Asp.Net Rest API's and Flutter for Mobile**
-- 🌱 I'm currently learning: **📚 Flutter**
+- 🌱 I'm currently learning: **📚 Python**
 
  **<h3 align="left">Skills</h3>**
 
