@@ -31,5 +31,4 @@ Previously, as a Web Development Intern, self-taught skills in web design propel
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Uricaryn)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Uricaryn&theme=dark)](https://git.io/streak-stats)
